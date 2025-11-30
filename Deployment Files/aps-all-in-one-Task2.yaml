@@ -57,6 +57,7 @@ kind: Service
 metadata:
   name: mongodb
 spec:
+  clusterIP: None
   ports:
     - port: 27017 # MongoDB service port
   selector:
