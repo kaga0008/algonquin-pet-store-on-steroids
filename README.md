@@ -2,6 +2,7 @@
 ## Elizabeth Kaganovsky (040956095)
 
 ### Youtube Demo
+https://youtu.be/fjU9TZifgIY
 
 ### Architecture Diagram
 ![](/assets/CST8915_Final_Architectur.png)
